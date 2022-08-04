@@ -1,0 +1,4 @@
+name: ItemManager
+version: '${project.version}'
+main: me.night.itemmanager.ItemManager
+api-version: 1.18
